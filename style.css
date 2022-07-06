@@ -62,5 +62,33 @@ body{
 }
 .orther-amount{
     text-align: center;
-    
+}
+.box-contant{
+margin-top: 200px;
+height: auto;
+padding-left: 30px;
+padding-right: 30px;
+border-spacing: 50px;
+}
+#box-left{
+    background-color:rgb(196, 214, 33);
+    width: 33.33%;
+    height: 300px;
+    float: left;
+    align-content: center;
+}
+#box-center{
+    background-color:rgb(14, 204, 46);
+    width: 33.33%;
+    height: 300px;
+    float:right;
+    align-content: center;
+
+}
+#box-right{
+    background-color:rgb(144, 179, 135);
+    width: 33.33%;
+    height: 300px;
+    margin: 0 auto;
+    align-content: center;
 }
