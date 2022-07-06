@@ -28,4 +28,39 @@ body{
     margin: auto;
     text-align: center;
 
+
+}
+.donate-value{
+    float: left;
+    text-align: center;
+}
+.amount-box{
+    width: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    text-align: center;
+    margin-left: 500px;
+    padding: 10px;
+    column-gap:10px;
+
+    
+    
+}
+.box{
+background-color: rgb(247, 244, 242);
+    padding: 5px 10px;
+    
+
+}
+.box h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Verdana;
+
+}
+#box2{
+    background-color: rgb(236, 166, 166);
+    border: 1px solid red;
+    color: red;
 }
