@@ -42,14 +42,10 @@ body{
     margin-left: 500px;
     padding: 10px;
     column-gap:10px;
-
-    
-    
 }
 .box{
-background-color: rgb(247, 244, 242);
+    background-color: rgb(247, 244, 242);
     padding: 5px 10px;
-    
 
 }
 .box h3{
@@ -63,4 +59,8 @@ background-color: rgb(247, 244, 242);
     background-color: rgb(236, 166, 166);
     border: 1px solid red;
     color: red;
+}
+.orther-amount{
+    text-align: center;
+    
 }
