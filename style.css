@@ -1,12 +1,10 @@
 body{
     margin: 0px;
-    padding: 0px;
+
 }
 .top-banner{
-    height: 100%;
-    width: 100%;
     background-image: url(images/donation13.jpg);
-    background-position: center;
-    background-size: cover;
-    position: relative;
-}
+    height: 15cm;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
