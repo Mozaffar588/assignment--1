@@ -14,3 +14,13 @@ body{
     text-align: center;
     padding: 5%;
 }
+.link-batton{
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 5px;
+
+
+}
