@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    font-family: 'PT Serif', serif;
 
 }
 .top-banner{
@@ -85,6 +86,7 @@ body{
     height: 300px;
     float:right;
     align-content: center;
+    justify-content: center;
     
 
 }
@@ -94,6 +96,7 @@ body{
     height: 300px;
     margin: 0 auto;
     align-content: center;
+    justify-content: center;
 }
 .content-img{
     display:flex;
