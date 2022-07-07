@@ -124,10 +124,12 @@ body{
 
 }
 .form-box{
+    margin-top: 2px;
     padding: 10px;
     border-radius: 5px;
     background color: rgb(226, 185, 185);
-    box-shadow: 10px 10px 15px;
+    box-shadow: 8px 8px 12px;
+    
 }
 .from-box input{
     font-size: 16px;
@@ -144,7 +146,15 @@ body{
     font-size: 20px;
     border: none;
     border-radius: 5px;
-    background: rgb(83, 95, 206);
+    background-color: rgb(191, 191, 236);
     cursor: pointer;
 
+}
+footer{
+    text-align: center;
+    background-color: black;
+    margin-top: 20px;
+}
+.footer-{
+    color: rgb(119, 25, 207);
 }
